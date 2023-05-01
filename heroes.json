@@ -1,0 +1,78 @@
+{
+  "heroes": [
+    {
+      "id": "82251dcd-6551-4be9-9605-7612b952f669",
+      "name": "Anton",
+      "description": "Лучше всех ",
+      "element": "earth"
+    },
+    {
+      "id": "cc627dde-cfd9-4660-859d-6e945b9ef3fd",
+      "name": "thor",
+      "description": "Умею делать очень многое в своей жизни",
+      "element": "water"
+    },
+    {
+      "id": "6b1093df-c1b8-4616-8a79-baf6f3bf78ae",
+      "name": "Angelina",
+      "description": "Самая красивая",
+      "element": "wind"
+    },
+    {
+      "id": "26b2edee-7adf-4326-b72a-f57f173c0bd4",
+      "name": "loki",
+      "description": "Великолепный",
+      "element": "fire"
+    },
+    {
+      "id": "615264f6-d61f-44e6-b266-bc56744521be",
+      "name": "Bony",
+      "description": "Чудак и простофиля",
+      "element": "water"
+    },
+    {
+      "id": "111f7322-3ee3-4613-a2f4-7de83142c6d7",
+      "name": "Базинга",
+      "description": "Чудить по полной",
+      "element": "water"
+    },
+    {
+      "id": "c611a70b-3947-445a-bd81-26534578dc71",
+      "name": "at",
+      "description": "Я очень силен со своим молотом",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "className": "btn-outline-dark",
+      "label": "Все"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "className": "btn-danger",
+      "label": "Огонь"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "className": "btn-primary",
+      "label": "Вода"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "className": "btn-success",
+      "label": "Ветер"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "className": "btn-secondary",
+      "label": "Земля"
+    }
+  ]
+}
