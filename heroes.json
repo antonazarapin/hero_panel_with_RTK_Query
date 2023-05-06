@@ -31,15 +31,9 @@
       "element": "water"
     },
     {
-      "id": "111f7322-3ee3-4613-a2f4-7de83142c6d7",
-      "name": "Базинга",
-      "description": "Чудить по полной",
-      "element": "water"
-    },
-    {
-      "id": "c611a70b-3947-445a-bd81-26534578dc71",
-      "name": "at",
-      "description": "Я очень силен со своим молотом",
+      "id": "eed25a7c-3500-4c56-8759-eac89789af95",
+      "name": "Протестировать",
+      "description": "Умею тестить",
       "element": "wind"
     }
   ],

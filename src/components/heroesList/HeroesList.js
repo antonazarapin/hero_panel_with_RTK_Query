@@ -32,7 +32,7 @@ const HeroesList = () => {
         deleteHero(id)
     }, [])
 
-    if (isLoading || isFetching) {
+    if (isLoading) {
         return <Spinner/>;
     } else if (isError) {
         return <h5 className="text-center mt-5">Ошибка загрузки</h5>
